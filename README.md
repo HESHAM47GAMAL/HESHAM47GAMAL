@@ -29,5 +29,5 @@
  <img  alt="pandas" width="40" height="40" src="https://pandas.pydata.org/static/img/pandas_secondary.svg"  />
  <img  alt="matplotlib" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/480px-Matplotlib_icon.svg.png"  />
  <img  alt="sklearn" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png?20180808062052"  />
- <img  alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+ <img  alt="Visual Studio Code"  width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </p>
