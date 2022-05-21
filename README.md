@@ -25,7 +25,6 @@
 
 <h3>Machine Learning and Deep Learning</h3>
 <p align="left">
- <img  alt="python" width="40" height="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
  <img  alt="numpy" width="40" height="40" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png"  />
  <img  alt="pandas" width="40" height="40" src="https://pandas.pydata.org/static/img/pandas_secondary.svg"  />
  <img  alt="matplotlib" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/480px-Matplotlib_icon.svg.png"  />
