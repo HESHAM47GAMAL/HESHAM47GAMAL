@@ -13,6 +13,7 @@
 <p align="left">
  <img  alt="C" hight="40px" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
  <img  alt="python" hight="40px" width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+  <img  alt="C++" hight="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 </p>
 
 <h3>Embedded System</h3>
