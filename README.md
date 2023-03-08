@@ -27,8 +27,8 @@
 <p align="left">
  <img  alt="ROS" width="40" height="40"  src="https://upload.wikimedia.org/wikipedia/commons/7/7a/ROS_cat.png" />
  <img  alt="RVIZ" hight="40px" width="40px" src="https://raw.githubusercontent.com/ros-visualization/rviz/noetic-devel/images/splash.png" />
- <img  alt="VS" hight="50px" width="50px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
- <img  alt="GAZEBO" hight="50px" width="50px" src="https://www.generationrobots.com/blog/wp-content/uploads/2016/07/gazebo-and-ros.jpg" />
+ <img  alt="GAZEBO" hight="40px" width="40px" src="https://www.generationrobots.com/blog/wp-content/uploads/2016/07/gazebo-and-ros.jpg" />
+ <img  alt="RTAB MAP" hight="40px" width="40px" src="https://play-lh.googleusercontent.com/BX5rTsLAM0Z0WNTovXLUk7zihsY0VCfIKIhhSsOEuiU-khtmHokrvI13FTtczvARcA" />
 </p>
 
 <h3>Machine Learning and Deep Learning</h3>
