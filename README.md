@@ -33,6 +33,12 @@
  <img  alt="RTAB MAP" hight="40px" width="40px" src="https://play-lh.googleusercontent.com/BX5rTsLAM0Z0WNTovXLUk7zihsY0VCfIKIhhSsOEuiU-khtmHokrvI13FTtczvARcA" />
 </p>
 
+<h3>Tools</h3>
+<p align="left">
+ <img  alt="Qt" width="40" height="40"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Qt_logo_2013.svg/851px-Qt_logo_2013.svg.png" />
+ <img  alt="Git" hight="50px" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+</p>
+
 <h3>Machine Learning and Deep Learning</h3>
 <p align="left">
  <img  alt="numpy" width="40" height="40" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png"  />
