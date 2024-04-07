@@ -38,6 +38,7 @@
  <img  alt="Qt" width="50" height="50"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Qt_logo_2013.svg/851px-Qt_logo_2013.svg.png" />
  <img  alt="Git" hight="60px" width="50px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
  <img  alt="Git" hight="60px" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8WZEDAcsLrByn6wQjYKWPj_s6cjZ0DY8Gsf6qV2uAiVPmcaO9upInHtQUYmocTbEPOFw&usqp=CAU" />
+ <img  alt="Git" hight="60px" width="60px" src="https://miro.medium.com/v2/resize:fit:267/1*CalM6rOuHxReY6W-rE01lw.png" />
 </p>
 
 <h3>Machine Learning and Deep Learning</h3>
