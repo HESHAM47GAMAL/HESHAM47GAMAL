@@ -37,6 +37,7 @@
 <p align="left">
  <img  alt="Qt" width="40" height="40"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Qt_logo_2013.svg/851px-Qt_logo_2013.svg.png" />
  <img  alt="Git" hight="50px" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+  <img  alt="Git" hight="50px" width="40px" src="https://docklight.de/wp-content/uploads/2015/07/Flachmann-und-Heggelbacher_960x768.png" />
 </p>
 
 <h3>Machine Learning and Deep Learning</h3>
