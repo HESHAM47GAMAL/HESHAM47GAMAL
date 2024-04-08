@@ -25,6 +25,15 @@
  <img  alt="Code composer" hight="50px" width="50px" src="https://www.electrorules.com/wp-content/uploads/2022/06/1-codeComposerStudio-v9-opening.png" />
  <img  alt="arduino" width="40" height="40"  src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
 </p>
+
+<h3>Wireless communication and servers</h3>
+<p align="left">
+ <img  alt="Wifi" hight="40px" width="40px" src="https://static.vecteezy.com/system/resources/thumbnails/021/515/180/small/wifi-icon-logo-symbol-with-name-design-mobile-illustration-vector.jpg" />
+ <img  alt="Bluetooth" hight="50px" width="50px" src="https://cdn.sparkfun.com/assets/4/b/e/e/9/5213ccb1757b7f4c568b4568.jpg" />
+ <img  alt="thingspeak" hight="50px" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0nrfZdtfAi0tEYVCxCaSVRtyTcPYsonA5XfynpHNE7w&s" />
+ <img  alt="Firebase" hight="50px" width="50px" src="https://i.ytimg.com/vi/fgT6r4f9Apc/maxresdefault.jpg" />
+</p>
+
 <h3>Robotics</h3>
 <p align="left">
  <img  alt="ROS" width="50" height="50"  src="https://upload.wikimedia.org/wikipedia/commons/7/7a/ROS_cat.png" />
@@ -37,8 +46,8 @@
 <p align="left">
  <img  alt="Qt" width="50" height="50"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Qt_logo_2013.svg/851px-Qt_logo_2013.svg.png" />
  <img  alt="Git" hight="60px" width="50px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
- <img  alt="Git" hight="60px" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8WZEDAcsLrByn6wQjYKWPj_s6cjZ0DY8Gsf6qV2uAiVPmcaO9upInHtQUYmocTbEPOFw&usqp=CAU" />
- <img  alt="Git" hight="50px" width="50px" src="https://miro.medium.com/v2/resize:fit:267/1*CalM6rOuHxReY6W-rE01lw.png" />
+ <img  alt="Dockligth" hight="60px" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8WZEDAcsLrByn6wQjYKWPj_s6cjZ0DY8Gsf6qV2uAiVPmcaO9upInHtQUYmocTbEPOFw&usqp=CAU" />
+ <img  alt="Draw.io" hight="50px" width="50px" src="https://miro.medium.com/v2/resize:fit:267/1*CalM6rOuHxReY6W-rE01lw.png" />
 </p>
 
 <h3>Machine Learning and Deep Learning</h3>
