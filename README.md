@@ -31,7 +31,7 @@
  <img  alt="Wifi" hight="60px" width="60px" src="https://static.vecteezy.com/system/resources/thumbnails/021/515/180/small/wifi-icon-logo-symbol-with-name-design-mobile-illustration-vector.jpg" />
  <img  alt="Bluetooth" hight="55px" width="55px" src="https://cdn.sparkfun.com/assets/4/b/e/e/9/5213ccb1757b7f4c568b4568.jpg" />
  <img  alt="thingspeak" hight="55px" width="55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0nrfZdtfAi0tEYVCxCaSVRtyTcPYsonA5XfynpHNE7w&s" />
- <img  alt="Firebase" hight="70px" width="70px" src="https://i.ytimg.com/vi/fgT6r4f9Apc/maxresdefault.jpg" />
+ <img  alt="Firebase" hight="90px" width="70px" src="https://i.ytimg.com/vi/fgT6r4f9Apc/maxresdefault.jpg" />
 </p>
 
 <h3>Robotics</h3>
@@ -48,7 +48,7 @@
  <img  alt="Git" hight="60px" width="50px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
  <img  alt="Dockligth" hight="60px" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8WZEDAcsLrByn6wQjYKWPj_s6cjZ0DY8Gsf6qV2uAiVPmcaO9upInHtQUYmocTbEPOFw&usqp=CAU" />
  <img  alt="Draw.io" hight="50px" width="50px" src="https://miro.medium.com/v2/resize:fit:267/1*CalM6rOuHxReY6W-rE01lw.png" />
-  <img  alt="MIT app inventor" hight="50px" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9bU9wHqUGGslNUEPCRs4OP9lX_S0_-3kTb4F1xoDOrg&s" />
+  <img  alt="MIT app inventor" hight="75px" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9bU9wHqUGGslNUEPCRs4OP9lX_S0_-3kTb4F1xoDOrg&s" />
 </p>
 
 <h3>Machine Learning and Deep Learning</h3>
