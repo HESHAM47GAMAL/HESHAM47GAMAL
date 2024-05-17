@@ -11,7 +11,7 @@
 
 <h3>Programming Languages</h3>
 <p align="left">
- <img  alt="C" hight="60px" width="60px" src="https://www.state-machine.com/qpc/logo_freertos.png" />
+ <img  alt="C" hight="60px" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
  <img  alt="C++" hight="50px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
  <img  alt="python" hight="50px" width="50px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
  <img  alt="Dart" hight="50px" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxltYGIk9VX6DsL71xp7MdKcXu_ARn15GVqQ&usqp=CAU" />
@@ -19,7 +19,7 @@
 
 <h3>Embedded System</h3>
 <p align="left">
- <img  alt="FreeRTOS" hight="50px" width="50px" src="https://avatars.githubusercontent.com/u/54647343?s=280&v=4" />
+ <img  alt="FreeRTOS" hight="50px" width="50px" src="https://www.state-machine.com/qpc/logo_freertos.png" />
  <img  alt="eclipse" hight="50px" width="50px" src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png" />
  <img  alt="systemworkbench" hight="50px" width="50px" src="https://fr.mathworks.com/products/connections/product_detail/stm32-embedded-target/_jcr_content/descriptionImageParsys/image.adapt.full.medium.jpg/1645427908159.jpg" />
  <img  alt="proteus" hight="50px" width="50px" src="https://sovathrothsama.files.wordpress.com/2018/10/proteus.jpg?w=640" />
