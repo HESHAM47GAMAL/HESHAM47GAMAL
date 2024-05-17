@@ -19,11 +19,11 @@
 
 <h3>Embedded System</h3>
 <p align="left">
- <img  alt="FreeRTOS" hight="80px" width="70px" src="https://www.state-machine.com/qpc/logo_freertos.png" />
+ <img  alt="FreeRTOS" hight="100px" width="90px" src="https://www.state-machine.com/qpc/logo_freertos.png" />
  <img  alt="eclipse" hight="50px" width="50px" src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png" />
  <img  alt="systemworkbench" hight="50px" width="50px" src="https://fr.mathworks.com/products/connections/product_detail/stm32-embedded-target/_jcr_content/descriptionImageParsys/image.adapt.full.medium.jpg/1645427908159.jpg" />
  <img  alt="proteus" hight="50px" width="50px" src="https://sovathrothsama.files.wordpress.com/2018/10/proteus.jpg?w=640" />
- <img  alt="Code composer" hight="50px" width="50px" src="https://www.electrorules.com/wp-content/uploads/2022/06/1-codeComposerStudio-v9-opening.png" />
+ <img  alt="Code composer" hight="60px" width="6s0px" src="https://www.electrorules.com/wp-content/uploads/2022/06/1-codeComposerStudio-v9-opening.png" />
  <img  alt="arduino" width="40" height="40"  src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
 </p>
 
